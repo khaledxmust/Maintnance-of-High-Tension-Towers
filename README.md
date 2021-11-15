@@ -1,5 +1,5 @@
 # Maintnance-of-High-Tension-Towers
-Computer Vision | Deep Neural Network | PyTorch | YOLOv5
+Computer Vision | Deep Neural Network | Colab | PyTorch | YOLOv5
 
 ![alt text](https://www.tccd.edu/magazine/assets/images/volume-04/issue-01/electric/equipping-header.jpg)
 

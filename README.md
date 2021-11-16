@@ -19,10 +19,7 @@ Model Sequence:
 7.  Using Both Networks weights to Localize the Wire Braces in each image, Crop it & resize, to localize and identify the contition of each clamp.
 
 Files:
-x1Network: Training & Testing for the 1st Network.
-
-x2Network: Training & Testing for the 2nd Network.
-
-Intermediate steps: Cropping & Resizing the Detected Braces.
-
-Final Notebook: The Whole System.
+1. x1Network: Training & Testing for the 1st Network.
+2. x2Network: Training & Testing for the 2nd Network.
+3. Intermediate steps: Cropping & Resizing the Detected Braces.
+4. Final Notebook: The Whole System.

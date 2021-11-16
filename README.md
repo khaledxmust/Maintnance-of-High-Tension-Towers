@@ -7,7 +7,7 @@ Problem Statement:
 Due to the high cost of human-oriented maintenance approach in high tension towers, The Egyptian Ministry of Electricity and Energy requested a prototype for "automated intelligent drones surveillance system" utilizing Deep Neural Network.
 
 Model Archticture:
-The arichticture of the system is based upon two networks, one network for detection and localizing of wire braces, another one for identifing and localizng of the condition for each clamp within the brace.
+The arichticture of the system is based upon two networks, one network for detection and localizing of wire braces, another one for identifing and localizng of the condition for each clamp within the brace along with wire damage.
 
 Model Sequence:
 1.  Image annotation using Roboflow [Wire Braces] (Object Detection-Bounding Boxes)

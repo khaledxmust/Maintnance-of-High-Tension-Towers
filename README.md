@@ -20,6 +20,9 @@ Model Sequence:
 
 Files:
 x1Network: Training & Testing for the 1st Network.
+
 x2Network: Training & Testing for the 2nd Network.
+
 Intermediate steps: Cropping & Resizing the Detected Braces.
+
 Final Notebook: The Whole System.
